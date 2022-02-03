@@ -10,7 +10,7 @@
 <h1>How to Run?</h1>
 run it with following command <br> <code>streamlit run app.py</code>
   <h1>Video</h1>
-  video link : https://youtu.be/sIRqrwZnuHE<br>
+  video link : https://youtu.be/VbbDzx3jCoE<br>
   
 <h1>Connect with me</h1>
 If you have any queries regarding any of the topic I discussed in this video feel free to talk to e using below links:<br>
